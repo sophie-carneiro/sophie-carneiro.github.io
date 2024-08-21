@@ -11,26 +11,32 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Informatic, Clermont-Auvergne University, 2024
+* M.S. in Medical Imaging Signal and System, Lyon 1 University, 2020
+* B.S and M.S. in Electronics and Digital Science,Graduate School of Chemistry and Digital Science Lyon (CPE Lyon), 2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2023 - 2024: Graduate assistant (ATER)
+  * INSA Lyon
+  * Duties includes: Lectures, tutorials and Evaluation correction
+  * Supervisors: Hervé Rivano and Damien Garcia
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2020 - 2024: Ph.D student 
+  * CREATIS, INSA Lyon, CNRS, Lyon 1, INSERM 
+  * Institut Pascal, Université Clermont Auvergne, CNRS, SIGMA Clermont
+  * Thesis: Vascular Segmentation: Exploring Variational and Deep Learning Strategies
+  * Supervisors: Odyssée Merveille and Antoine Vacavant
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2020: Research intern
+  * CREATIS, INSA Lyon, CNRS, Lyon 1, INSERM 
+  * Research topic: Segmentation and denoising of blood vessels with variational approach and deep learning
+  * Supervisors: Odyssée Merveille and Antoine Vacavant
+
+* 2018-2019: Research intern
+  * GRAMS, Sherbrooke University 
+  * Research topic: Treatement of Compton diffusion applied to Positron emission tomography (PET) scanner
+  * Supervisors: Jean-Baptiste Michaud
   
 Skills
 ======
