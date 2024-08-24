@@ -1,12 +1,12 @@
 # main links links
 main:
   - title: "Publications"
-    url: sophie-carneiro.github.io/publications/
+    url: /publications/
 
   - title: "Teaching"
-    url: sophie-carneiro.github.io/teaching/    
+    url: /teaching/    
     
   - title: "CV"
-    url: sophie-carneiro.github.io/cv/
+    url: /cv/
     
 
