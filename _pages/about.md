@@ -3,8 +3,8 @@ permalink: /
 title: " "
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - sophie-carneiro.github.io/about/
+  - sophie-carneiro.github.io/about.html
 ---
 Hello ! 
 I'm a Graduate assitant at INSA Lyon and I'm looking for a Post-Doc !
