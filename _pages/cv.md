@@ -20,7 +20,7 @@ Work experience
 * 2023 - 2024: Graduate assistant (ATER)
   * INSA Lyon
   * Duties includes: Lectures, tutorials and Evaluation correction
-  * Supervisors: Hervé Rivano and Damien Garcia
+
 
 * 2020 - 2024: Ph.D student 
   * CREATIS, INSA Lyon, CNRS, Lyon 1, INSERM 
@@ -40,12 +40,24 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Knowledge
+  * Deep learning
+  * Variational approach
+  * Segmentation
+* Programming 
+  * Python ( Torch, Tensorflow )
+  * Matlab
+* Informatics tools
+  * Latex
+  * Inkscape
+
+
+Service
+======
+* April 2024: Scientific outreach workshop for primary school students on sound waves ([Atelier "Trace ton son"](https://www.creatis.insa-lyon.fr/site/fr/animation-scientifique-grand-public-atelier-trace-ton-son))
+
+* Spring 2022: Co-supervisor of Chloé Martin master’s internship focused on developing 3D generic vascular segmentation network
+
 
 Publications
 ======
@@ -53,18 +65,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-teach.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+

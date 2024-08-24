@@ -11,17 +11,26 @@ author_profile: true
 
 {% include base_path %}
 
+
 ## Journal Papers
 
-{% for post in site.publications reversed %}{% if post.collection == 'publications' %}
-  {% include archive-single.html %}
-{% endif %}
+{% for post in site.publications reversed %}
+  {% if post.type == 'journal' %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
 
+## International Conference Papers
 
-## International Conference papers
-{% for post in site.publications reversed %} {% if post.collection == 'conferences' %}
-  {% include archive-single.html %}
-{% endif %}
+{% for post in site.publications reversed %}
+  {% if post.type == 'proceedings' %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
 
+## National Conference Papers
+{% for post in site.publications reversed %}
+  {% if post.type == 'natproceedings' %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
