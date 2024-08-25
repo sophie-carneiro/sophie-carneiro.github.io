@@ -6,6 +6,6 @@ excerpt: 'Curvilinear structures are present in various fields in image processi
 date: 2024-06-01
 type: journal
 venue: 'Neurocomputing, Elsevier'
-paperurl: 'https://arxiv.org/pdf/2110.12707.pdf'
+paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4573124'
 citation: '<b>Sophie Carneiro-Esteves</b>, Antoine Vacavant and Odyssée Merveille. &quot;A plug-and-play framework for curvilinear structure segmentation based on a learned reconnecting regularization&quot; <i>Neurocomputing 2024 </i>.'
 ---
