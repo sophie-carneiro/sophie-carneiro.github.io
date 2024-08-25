@@ -44,6 +44,7 @@ Skills
   * Deep learning
   * Variational approach
   * Segmentation
+  * Curvilinear structures
 * Programming 
   * Python ( Torch, Tensorflow )
   * Matlab
@@ -54,9 +55,11 @@ Skills
 
 Service
 ======
+* September 2024: Student volunteer for the organization of the conference EUSIPCO
+* July 2024: Member of the organisation team of the ([Doctoral Symbosium](https://2024.midl.io/doctoral)) at MIDL 2024 and student volunteer for the organization of the conference
 * April 2024: Scientific outreach workshop for primary school students on sound waves ([Atelier "Trace ton son"](https://www.creatis.insa-lyon.fr/site/fr/animation-scientifique-grand-public-atelier-trace-ton-son))
-
 * Spring 2022: Co-supervisor of Chloé Martin master’s internship focused on developing 3D generic vascular segmentation network
+* Spring 2021: Organizer of the doctoral day for 1st year Ph.D. students
 
 
 Publications

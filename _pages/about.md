@@ -11,7 +11,6 @@ Hello !
 
 I'm a Graduate assitant at INSA Lyon and I'm looking for a Post-Doc !
 
-I defended my PhD on the 07/05/2024 and was on exploring variational and deep learning strategies for vascular segmentation.
-
+On 7 May 2024, I successfully defended my doctoral thesis, which explored variational and deep learning strategies for vascular segmentation.
 
 
