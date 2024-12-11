@@ -17,6 +17,10 @@ Education
 
 Work experience
 ======
+* 2025 - now: Posdoctoral researcher 
+  * Institut Fresnel, Marseille
+  * Research topic: unsupervised fine-tuning models for cell's segmentation using baysian statistics
+  * Supervisor: Philippe Roudot
 * 2023 - 2024: Graduate assistant (ATER)
   * INSA Lyon
   * Duties includes: Lectures, tutorials and Evaluation correction
