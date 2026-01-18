@@ -47,8 +47,10 @@ Skills
 * Knowledge
   * Deep learning
   * Variational approach
+  * Kalman filter and Markov Chain
   * Segmentation
   * Curvilinear structures
+
 * Programming 
   * Python ( Torch, Tensorflow )
   * Matlab
@@ -59,6 +61,9 @@ Skills
 
 Service
 ======
+* March 2026: Member of the student team of the "Réseau IABM Jeune Chercheur Jeune Chercheuse" of [IABM 2026](https://iabm2026.sciencesconf.org/)  and student volunteer for the organization of the conference
+* January 2026: Organization of the first women-and-trans-people lunch at Fresnel Institute with the Parity team
+* March 2025: Member of the student team of the "Réseau IABM Jeune Chercheur Jeune Chercheuse" of [IABM 2025](https://iabm2025.sciencesconf.org/)  and student volunteer for the organization of the conference
 * September 2024: Student volunteer for the organization of the conference EUSIPCO
 * July 2024: Member of the organisation team of the ([Doctoral Symbosium](https://2024.midl.io/doctoral)) at MIDL 2024 and student volunteer for the organization of the conference
 * April 2024: Scientific outreach workshop for primary school students on sound waves ([Atelier "Trace ton son"](https://www.creatis.insa-lyon.fr/site/fr/animation-scientifique-grand-public-atelier-trace-ton-son))
