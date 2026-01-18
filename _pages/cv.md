@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ======
+* Qualification in section 27 and 61, 2025
 * Ph.D in Informatic, Clermont-Auvergne University, 2024
 * M.S. in Medical Imaging Signal and System, Lyon 1 University, 2020
 * B.S and M.S. in Electronics and Digital Science,Graduate School of Chemistry and Digital Science Lyon (CPE Lyon), 2020
